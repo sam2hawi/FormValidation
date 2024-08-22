@@ -1,1 +1,3 @@
 # FormValidation
+
+A web form validation application built using HTML, CSS, and JavaScript ensures that user inputs are accurate and complete before submission. The HTML structure defines the form fields, while CSS is used to style the form, making it visually appealing and user-friendly. JavaScript is implemented to validate the inputs, checking for required fields, proper formatting (like email addresses or phone numbers), and enforcing specific rules (such as password strength). This client-side validation enhances user experience by providing immediate feedback, reducing errors, and ensuring data integrity .
